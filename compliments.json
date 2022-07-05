@@ -31,15 +31,8 @@
 	"Perfect Frisbee weather"
         ],
     "day_cloudy" : [
-        "It's cloudy out there, but no meatballs",
         "It may be cloudy, but it's still nice out!",
         "The sun is hiding right now"
-        ],
-    "cloudy" : [
-        ],
-    "cloudy_windy" : [
-    ],
-    "showers" : [
         ],
     "rain" : [
         "Take your umbrella with you",
@@ -48,22 +41,13 @@
 	"Lay out weather it is!"
         ],
     "thunderstorm" : [
-        ],
-    "fog" : [
+	"THUNDER"
     ],
     "night_clear": [
         "Weather forecast for tonight: dark"
     ],
-    "night_cloudy" : [
-    ],
-    "night_showers" : [
-    ],
-    "night_rain" : [
-    ],
     "night_thunderstorm" : [
         "It's a stormy night, don't be scared"
-    ],
-    "night_alt_cloudy_windy" : [
     ],
     "....-01-01"  : [
         "Happy New Year!"
